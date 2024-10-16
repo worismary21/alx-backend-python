@@ -3,7 +3,6 @@
 import asyncio
 
 async_comprehension = __import__('1-async_comprehension').async_comprehension
-import 
 
 async def async_comprehension():
     """Collects 10 random numbers using async comprehension from async_generator."""
